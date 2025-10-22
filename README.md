@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student in Haaga-Helia University of Applied Sciences.<br>🌱 I’m currently learning about Cybersecurity, Cloud computing and Information security.<br>
+🔭 I’m currently a student in Haaga-Helia University of Applied Sciences.<br>🌱 I’m currently learning about Cybersecurity, Cloud computing and Information security.<br> 🎮 Go check out the game my friends and I made during the first javascript course! Link here: https://sof001it1a.github.io/ <br>
 
 
 # 💻 Tech Stack:
